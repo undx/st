@@ -1,4 +1,6 @@
-# Luke's build of st - the simple (suckless) terminal
+# undx's build of st - the simple (suckless) terminal
+
+Initially forked from LukeSmithxyz/st repo.
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
@@ -72,5 +74,5 @@ Note that when you run `wal`, it will negate the transparency of existing window
 
 ## Contact
 
-- Luke Smith <luke@lukesmith.xyz>
-- [https://lukesmith.xyz](https://lukesmith.xyz)
+- undx
+- [https://undx.net](https://undx.net)

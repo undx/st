@@ -4,6 +4,18 @@ Initially forked from LukeSmithxyz/st repo.
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
+
+## Useful keybindings
+
+- `M-pageup/down` or `s-wheel` : scrollback
+- `M-S-Wheel` : zoom
+- `C-=` / `C--` / `C-0` : zoom in, out, reset
+- `M-S-ESC` : keyboard_select
+- `M-l` : follow urls
+- `M-y` : copy urls
+- `M-o` : copy the output of commands
+- `M-c` / `M-y` : copy / paste text
+
 ## my added features
 
 **keyboard_select**

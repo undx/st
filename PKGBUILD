@@ -12,7 +12,7 @@ license=('MIT')
 options=('zipman')
 depends=('libxft')
 makedepends=('ncurses' 'libxext' 'git')
-optdepends=('dmenu: feed urls to dmenu')
+optdepends=('rofi: feed urls to rofi')
 source=('git://github.com/LukeSmithxyz/st')
 sha1sums=('SKIP')
 

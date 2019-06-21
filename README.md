@@ -49,7 +49,7 @@ Shortcuts for input mode :
 To active `keyboard_select`, press `M-S-ESC`.
 
 
-## Unique features (using dmenu)
+## Unique features (using rofi)
 
 + **follow urls** by pressing `alt-l`
 + **copy urls** in the same way with `alt-y`

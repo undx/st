@@ -1,6 +1,7 @@
 # undx's build of st - the simple (suckless) terminal
 
-Initially forked from LukeSmithxyz/st repo.
+Initially forked from LukeSmithxyz/st repo. He made a great work and is really responsive.
+Don't forget to watch its videos on YT, I like them much!
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
